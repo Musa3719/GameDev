@@ -1,2 +1,2 @@
 # Libra
-Game Development Projects
+souls like game prototype
